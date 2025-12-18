@@ -1,0 +1,1 @@
+Place image files here. Suggested names: gym1.jpg, trainer1.jpg, class.jpg, weights.jpg, yoga.jpg, trainer2.jpg, trainer3.jpg
